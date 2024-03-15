@@ -1,3 +1,11 @@
+## Please use the RunApp in the RStudio to launch the App.
+## Using this app you can identify your gene of interest in SARS-CoV-2 specific CD4 and CD8 T cells.
+## It has 4 Tabs:
+## 1. UMAP: UMAP and Violin Plots for CD4 and CD8. All the plots are downloadable in pdf format
+## 2. DEG: To perform differential genes between multiple clusters, samples, vaccine etc. All the tables are downloadable in csv format
+## 3. DEP: To perform differential protein between multiple clusters, samples, vaccine etc. All the tables are downloadable in csv format
+## 4. Gene Score: This tab perform the combine gene score UMAP and Violin plot. All the plots are downloadable in pdf format.
+
 library(shiny)
 library(Seurat)
 library(session)
