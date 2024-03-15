@@ -1,7 +1,7 @@
 # RShiny_CoV2
 Develop the RShiny Web Database for scCITESeq in Aging for SARS-CoV-2.
 
-This is user friendly website even for person with zero coding experience 
+This is user friendly website works for the user with no coding experience 
 
 The website divided into 4 different tabs:
 
