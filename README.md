@@ -31,6 +31,7 @@ The website divided into 4 different tabs:
 
 4. **Gene Score and Pathway Analysis Tab** It calculate the gene score of multiple genes and pathway analysis
 
+![Screenshot 2024-04-01 at 5 44 21 PM](https://github.com/Ajaingithub/RShiny_CoV2/assets/37553954/06efb81d-a184-48fb-9761-34520fe0930b)
 
 
 All the plots and tables are easily downloadable 
